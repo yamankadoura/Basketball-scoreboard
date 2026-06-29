@@ -1,0 +1,91 @@
+body {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    text-align: center;
+    margin: 0;
+    color: white;
+    background-color: black;
+}
+
+#title {
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+#Main {
+    width: 600px;
+    height: 500px;
+    margin: 100px auto 50px auto;
+    background-color: #0496ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#Teams-container {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.teams {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.score {
+    width: 140px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    height: auto;
+    font-size: 70px;
+    background-color: navy;
+}
+
+.btn {
+    background-color: #0496ff;
+    border: 1px solid white;
+    color: white;
+    padding: 3px 8px;
+}
+
+.plus-btn {
+    margin-left: 7px;
+}
+
+.plus-btn:hover {
+    background-color: red;
+}
+
+#new-game-btn:hover {
+    background-color: red;
+}
+
+#new-game-btn {
+    padding: 10px 20px;
+    background-color: #0496ff;
+    border: 1px solid white;
+    color: white;
+    font-size: 16px;
+}
+
+#new-game-div {
+    margin-bottom: 100px;
+}
