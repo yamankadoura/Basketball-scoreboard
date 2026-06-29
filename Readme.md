@@ -8,9 +8,11 @@
 A simple and responsive **Basketball Scoreboard** built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Keep track of the score for both the Home and Guest teams with an intuitive interface and quickly start a new game with a single click.
 
 ---
+## 🎥 Demo
+![Basketball scoreboard runing exampl](./assets/run_example.gif)
 
 ## 📸 Preview
-![Basketball scoreboard runing exampl](./assets/run_example.gif)
+![Basketball Scoreboard Screenshot](./assets/screenshot.png)
 
 ---
 
