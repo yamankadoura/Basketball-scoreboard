@@ -10,8 +10,7 @@ A simple and responsive **Basketball Scoreboard** built with **HTML5**, **CSS3**
 ---
 
 ## 📸 Preview
-
-![Basketball Scoreboard Screenshot](./assets/screenshot.png)
+![Basketball scoreboard runing exampl](./assets/run_example.gif)
 
 ---
 
